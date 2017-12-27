@@ -1,0 +1,23 @@
+{
+  "name": "pilgrim-build-human-alchemist",
+  "version": "0.0.0",
+  "description": "@scriptdaemon's \"Human Alchemist\" Pathfinder character build.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptdaemon/pilgrim-build-human-alchemist.git"
+  },
+  "keywords": [
+    "pathfinder"
+  ],
+  "author": "Kenneth Williams",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/scriptdaemon/pilgrim-build-human-alchemist/issues"
+  },
+  "homepage": "https://github.com/scriptdaemon/pilgrim-build-human-alchemist#readme",
+  "private": true
+}
