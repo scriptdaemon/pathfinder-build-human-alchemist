@@ -19,9 +19,9 @@
     "url": "https://github.com/scriptdaemon/pilgrim-build-human-alchemist/issues"
   },
   "homepage": "https://github.com/scriptdaemon/pilgrim-build-human-alchemist#readme",
-  "private": true,
   "engines": {
     "node": ">=6.9.0",
     "npm": ">=3.10.8"
-  }
+  },
+  "private": true
 }
